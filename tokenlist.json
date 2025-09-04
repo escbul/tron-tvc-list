@@ -15,3 +15,20 @@
         }
   ]
 }
+,
+{
+    "address": "TA4hHX4tHMsc8myVsCAT5Ku7nANMAM3",
+    "symbol": "ODT",
+    "name": "Orbit Dollar",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/assets/TA4hHX4tHMsc8myVsCAT5Ku7nANMAM3/logo.png",
+    "homepage": "https://orbitdollar.com/",
+    "existingMarkets": {
+      "source": "SunSwap",
+      "pairs": [
+        "ODT/USDT",
+        "ODT/TRX"
+      ]
+    }
+  }
+]
